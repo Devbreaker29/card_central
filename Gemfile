@@ -49,3 +49,12 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # add rspec for unit testing
 gem 'rspec-rails'
+
+# add bootstrap to file
+gem 'bootstrap', '~> 5.0.0.beta1'
+
+#J-qeury gem
+gem 'jquery-rails'
+
+#devise
+gem 'devise'
